@@ -1,0 +1,1 @@
+<resources><style name="Theme.StatusDrop" parent="Theme.Material3.DayNight.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:navigationBarColor">@android:color/black</item></style></resources>
